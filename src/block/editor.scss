@@ -1,0 +1,10 @@
+/**
+ * #.# Editor Styles
+ *
+ * CSS for just Backend enqueued after style.scss
+ * which makes it higher in priority.
+ */
+
+.wp-block-gonzo-the-excerpt .editor-rich-text__tinymce.mce-content-body  {
+  font-size: 1.25em;
+}
